@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koos-za&label=Profile%20views&color=0e75b6&style=flat" alt="koos-za" /> </p>
 
-- 🌱 I’m currently learning **Devops & Penetetration Testing**
-- 👀 I’m interested in Cyber Security
-- 💬 Ask me about **Cyber Security**
+- 🌱 I’m currently learning **Devops & Coding**
+- 👀 I’m interested in **Cyber Security**
 - 📫 How to reach me : you can mail me on my email -  **makhenekhosi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
