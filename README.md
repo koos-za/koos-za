@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Devops, Coding, Linux and Cybersecurity**
 - 👀 I’m interested in **Cyber Security**
-- 🎯 Targeting Microsoft **SC-900 and Cyber Defence Analyst (CCDA)** certifications in 2024.
+- 🎯 Targeting Microsoft **AZ-104 and Certified Red Team Analyst Review [CRTA]** certifications in 2024.
 - 📫 How to reach me : you can mail me on my email -  **makhenekhosi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
