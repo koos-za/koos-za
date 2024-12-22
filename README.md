@@ -46,7 +46,7 @@ Throughout my Information Technology career, I've cultivated an enthusiasm for b
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-IBM_QRADAR-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 <h2> 🤳 Connect with me:</h2>
