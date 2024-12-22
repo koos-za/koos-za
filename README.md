@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Khosi Makhene</h1>
-<h3 align="center">A passionate Cyber Security Professional</h3>
+# Hello, I'm Khosi
+<a href="https://www.linkedin.com/in/khosi-m/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koos-za&label=Profile%20views&color=0e75b6&style=flat" alt="koos-za" /> </p>
 
