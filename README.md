@@ -47,10 +47,9 @@ Throughout my Information Technology career, I've cultivated an enthusiasm for b
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
+<h2> 🤳 Connect with me:</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koos-za&show_icons=true&locale=en&layout=compact" alt="koos-za" /></p>
+[<img align="left" alt="Skyzo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koos-za&show_icons=true&locale=en" alt="koos-za" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koos-za&" alt="koos-za" /></p>
+[linkedin]: https://linkedin.com/in/khosi-m/
 
