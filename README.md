@@ -26,12 +26,11 @@ Throughout my Information Technology career, I've cultivated an enthusiasm for b
 
 </div>
 
-### Endpoint
+### OS
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Windows_Server-800080?&style=for-the-badge&logo=Windows_Server&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Kali_Linux-557C8C?&style=for-the-badge&logo=Kali_Linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Ubuntu_Linux-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
+    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
 
 
 </div>
