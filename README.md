@@ -17,15 +17,6 @@ Throughout my Information Technology career, I've cultivated an enthusiasm for b
 
 ## Tools
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-0078D7?&style=for-the-badge&logo=linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nessus-00C176?&style=for-the-badge&logo=Tenable&logoColor=white" />
-
-
-</div>
-
 ### OS
 <div>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
