@@ -53,7 +53,7 @@ Throughout my Information Technology career, I've cultivated an enthusiasm for b
 
 ## 🕓 Version Control
 <div>
-  <img src="![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
     
 </div>
