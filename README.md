@@ -11,7 +11,7 @@ Throughout my Information Technology career, I've cultivated an enthusiasm for b
 
 - 🌱 I’m currently learning **Devops, Coding, Linux and Cybersecurity**
 - 👀 I’m interested in **All things cyber**
-- 🎯 Targeting Microsoft **AZ-104 and AZ-500** certifications in 2025.
+- 🎯 Targeting Microsoft **AZ-104 and AZ-500** and **Red Team Infra Dev [CRT-ID]** by Cyberwarfare Labs certifications in 2025.
 - 📫 How to reach me : you can mail me on my email -  **makhenekhosi@gmail.com**
 
 
