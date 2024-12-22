@@ -1,6 +1,11 @@
 # Hello, I'm Khosi
 <a href="https://www.linkedin.com/in/khosi-m/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+I'm a skilled Cyber Security Analyst with hands-on experience in security operations. I know my way around a variety of security tools and technologies to spot, investigate, and handle security incidents. 
+
+## Objective
+
+Throughout my Information Technology career, I've cultivated an enthusiasm for both defensive and offensive security practices, and I've lately begun exploring the DevOps/DevSecOps space.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koos-za&label=Profile%20views&color=0e75b6&style=flat" alt="koos-za" /> </p>
 
