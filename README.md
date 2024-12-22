@@ -10,7 +10,7 @@ Throughout my Information Technology career, I've cultivated an enthusiasm for b
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koos-za&label=Profile%20views&color=0e75b6&style=flat" alt="koos-za" /> </p>
 
 - 🌱 I’m currently learning **Devops, Coding, Linux and Cybersecurity**
-- 👀 I’m interested in **Cyber Security**
+- 👀 I’m interested in **All things cyber**
 - 🎯 Targeting Microsoft **AZ-104 and AZ-500** certifications in 2025.
 - 📫 How to reach me : you can mail me on my email -  **makhenekhosi@gmail.com**
 
