@@ -11,7 +11,7 @@ Throughout my Information Technology career, I've cultivated an enthusiasm for b
 
 - 🌱 I’m currently learning **Devops, Coding, Linux and Cybersecurity**
 - 👀 I’m interested in **Cyber Security**
-- 🎯 Targeting Microsoft **AZ-104 and Certified Red Team Analyst Review [CRTA]** certifications in 2024.
+- 🎯 Targeting Microsoft **AZ-104 and AZ-500** certifications in 2025.
 - 📫 How to reach me : you can mail me on my email -  **makhenekhosi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
