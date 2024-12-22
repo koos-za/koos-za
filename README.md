@@ -51,6 +51,13 @@ Throughout my Information Technology career, I've cultivated an enthusiasm for b
     
 </div>
 
+## 🕓 Version Control
+<div>
+  <img src="![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)" />
+
+    
+</div>
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Koos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
