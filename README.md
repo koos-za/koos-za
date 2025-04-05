@@ -13,7 +13,7 @@ Throughout my Information Technology career, I've cultivated an enthusiasm for b
 - 👀 I’m interested in **All things cyber**
 - 🎯 Targeting Microsoft **AZ-104, AZ-500** and **Red Team Infra Dev [CRT-ID]** by Cyberwarfare Labs certifications in 2025.
 
-# Projects
+## Projects
 All my projects are showcased as proof and evidence of my expertise here: 
   
 
